@@ -18,6 +18,8 @@
 <br/>
 <br/>
    <img src="https://github-readme-stats.vercel.app/api?username=Hee611&show_icons=true&title_color=64b3f4&text_color=B2EBF4&bg_color=353535" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=300&section=footer" />
 </div>
 <!--
 **Hee611/Hee611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
