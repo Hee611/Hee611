@@ -1,5 +1,4 @@
-### 안녕하세요! 아직 기초를 다지고 있는 코린이입니다.😄
-### 게임 및 웹 개발 등에 관심이 많아 C++, Python, JS 위주로 공부중입니다.
+<p>안녕하세요! 😊</p>
 
 <!--
 **Hee611/Hee611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
