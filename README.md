@@ -9,7 +9,7 @@
  
  <div>
   <h3>📄 Studying </h3>
-   <img src="https://img.shields.io/badge/파이썬-ffffff?style=flat-square&logo=Python&logoColor=ffffff&labelColor=3776AB&color=3776AB"/>
+   <img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=Python&logoColor=ffffff&labelColor=3776AB&color=3776AB"/>
    <img src="https://img.shields.io/badge/C++-ffffff?style=flat-square&logo=c%2B%2B&logoColor=ffffff&labelColor=00599C&color=00599C"/>
    <img src="https://img.shields.io/badge/Linux-ffffff?style=flat-square&logo=Linux&logoColor=ffffff&labelColor=FF9436&color=FF9436"/>
   <br/>
