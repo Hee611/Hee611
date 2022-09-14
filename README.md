@@ -1,5 +1,5 @@
 <div align=center>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=300&section=header&text=Hello%World!&fontSize=80" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&section=header&text=Hello%World!&fontSize=50" />
  <p>
   안녕하세요!🙇‍♂️ 하고 싶은게 많은 코린이입니다. <br>
  </p>
