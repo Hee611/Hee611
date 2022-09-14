@@ -1,8 +1,7 @@
  <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,6,12&height=300&section=header&text=Hello%World!&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=300&section=header&text=Hello%World!&fontSize=80" />
   <p>안녕하세요!😊</p>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,6,12&height=300&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hee611&show_icons=true&title_color=64b3f4&text_color=B2EBF4&bg_color=353535" />
 </div>
 
 <!--
