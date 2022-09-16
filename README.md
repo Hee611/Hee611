@@ -1,7 +1,10 @@
 <div align=center>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&section=header&text=Hello%World!&fontSize=50" />
  <p>
-  안녕하세요!🙇‍♂️ <br>
+  안녕하세요!🙇‍♂️ 코딩 초보 TH입니다.<br>
+  개발에 대한 관심을 2019년부터 가지게 되어 IT 분야로 뛰어들게 되었습니다.<br>
+  현재는 서버를 운영/관리하는 회사에 재직 중이며, 대학교도 병행하고 있습니다.<br>
+  
  </p>
  
  <br/>
