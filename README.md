@@ -4,7 +4,6 @@
   안녕하세요!🙇‍♂️ 코딩 초보 TH입니다.<br>
   개발에 대한 관심을 2019년부터 가지게 되어 IT 분야로 뛰어들게 되었습니다.<br>
   현재는 서버를 운영/관리하는 회사에 재직 중이며, 대학교도 병행하고 있습니다.<br>
-  
  </p>
  
  <br/>
@@ -37,6 +36,8 @@
  
 <br/>
  
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHee611&count_bg=%23070707&title_bg=%23555555&icon=cliqz.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=190&section=footer" />
 </div>
 <!--
