@@ -1,5 +1,5 @@
 <div align=center>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&section=header&text=Hello%World!&fontSize=50" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&section=header&text=Hello!&fontSize=50" />
  <p>
   안녕하세요!🙇‍♂️<br>
  </p>
@@ -16,6 +16,7 @@
    <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat-square&logo=HTML5&logoColor=ffffff&labelColor=E34F26&color=E34F26"/>
    <img src="https://img.shields.io/badge/CSS3-ffffff?style=flat-square&logo=CSS3&logoColor=ffffff&labelColor=1572B6&color=1572B6"/>
    <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=JavaScript&logoColor=ffffff&labelColor=F7DF1E&color=F7DF1E"/>
+   <img src="https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=MySQL&logoColor=ffffff&labelColor=4479A1&color=4479A1"/>
  </div>
  
  <div>
@@ -23,7 +24,6 @@
    <img src="https://img.shields.io/badge/Visual Studio-ffffff?style=flat-square&logo=Visual Studio&logoColor=ffffff&labelColor=5C2D91&color=5C2D91"/>
    <img src="https://img.shields.io/badge/Visual Studio Code-ffffff?style=flat-square&logo=Visual Studio Code&logoColor=ffffff&labelColor=007ACC&color=007ACC"/>
    <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=GitHub&logoColor=ffffff&labelColor=181717&color=181717"/>
-   <img src="https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=MySQL&logoColor=ffffff&labelColor=4479A1&color=4479A1"/>
  </div>
  
 <br/>
@@ -34,7 +34,7 @@
  
 <br/>
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hee611&bg_color=353535" />
+<!-- 사용 언어 순위 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hee611&bg_color=353535&langs_count=5" /> -->
  
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHee611&count_bg=%23070707&title_bg=%23555555&icon=cliqz.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
