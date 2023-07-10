@@ -9,14 +9,10 @@
  
  <div>
   <h3>📄 Studying </h3>
-   <img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=Python&logoColor=ffffff&labelColor=3776AB&color=3776AB"/>
+   <img src="https://img.shields.io/badge/C%23-ffffff?style=flat-square&logo=Csharp&logoColor=ffffff&labelColor=3776AB&color=3776AB"/>
    <img src="https://img.shields.io/badge/C++-ffffff?style=flat-square&logo=c%2B%2B&logoColor=ffffff&labelColor=00599C&color=00599C"/>
-   <img src="https://img.shields.io/badge/Linux-ffffff?style=flat-square&logo=Linux&logoColor=ffffff&labelColor=FF9436&color=FF9436"/>
-  <br/>
-   <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat-square&logo=HTML5&logoColor=ffffff&labelColor=E34F26&color=E34F26"/>
-   <img src="https://img.shields.io/badge/CSS3-ffffff?style=flat-square&logo=CSS3&logoColor=ffffff&labelColor=1572B6&color=1572B6"/>
-   <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=JavaScript&logoColor=ffffff&labelColor=F7DF1E&color=F7DF1E"/>
    <img src="https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=MySQL&logoColor=ffffff&labelColor=4479A1&color=4479A1"/>
+   <img src="https://img.shields.io/badge/Linux-ffffff?style=flat-square&logo=Linux&logoColor=ffffff&labelColor=FF9436&color=FF9436"/>
  </div>
  
  <div>
