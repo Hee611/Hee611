@@ -38,9 +38,10 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Hee611&show_icons=true&title_color=64b3f4&text_color=B2EBF4&bg_color=353535" /> -->
  
 <br/>
- 
+ <img src="https://github-readme-stats.vercel.app/api?username=Hee611&hide=stars,contribs&count_private=true&show_icons=true&&theme=dark"/>
+ <br>
 <!-- 사용 언어 순위 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hee611&bg_color=353535&langs_count=5" /> -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hee611&layout=compact&theme=dark"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hee611&layout=compact&theme=dark"/> 
  
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHee611&count_bg=%23070707&title_bg=%23555555&icon=cliqz.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
