@@ -2,6 +2,15 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&section=header&text=Hello!&fontSize=50" />
  <p>
   안녕하세요!🙇‍♂️<br>
+  게임 개발자를 목표로 하고 있는 TH(Hee611) 입니다.
+  
+  현재 다른 분야의 IT 업계에 재직중이지만<br>
+  게임 개발자의 꿈을 이루기 위해 학원을 병행하고 있습니다.
+
+  지금은 C# 언어를 배우고 있지만 추후 C++ 언어도 배우는 것을 계획하고 있습니다.
+
+  게임 관련 개발 뿐만 다양한 코드를 작성해보기 위해 Baekjoon 등<br>
+  문제 제공 사이트를 이용하여 여러 문제를 풀고 있습니다.
  </p>
  
  <br/>
