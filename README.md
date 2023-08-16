@@ -18,9 +18,9 @@
 <hr width="50px">
  <br/>
  <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hee611&layout=compact&theme=dark"/> 
+  <img src="https://github-readme-stats-hee611.vercel.app/api/top-langs?username=Hee611&layout=compact&theme=dark"/> 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hee611&hide=stars,contribs&count_private=true&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats-hee611.vercel.app/api?username=Hee611&hide=stars,contribs&count_private=true&show_icons=true&theme=dark"/>
  </div>
 
  <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=190&section=footer" />-->
